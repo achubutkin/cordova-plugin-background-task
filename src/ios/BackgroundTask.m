@@ -1,7 +1,7 @@
 //
 //  BackgroundTask.m
 //  Copyright (c) 2014 Lee Crossley - http://ilee.co.uk
-//
+//  Executing Finite-Length Tasks
 
 #import "Cordova/CDV.h"
 #import "Cordova/CDVViewController.h"
